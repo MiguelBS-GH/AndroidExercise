@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidExercise</string>
+    <string name="show_list">Mostrar</string>
+    <string name="new_user">Nuevo</string>
+    <string name="create_user_button_accept">Crear</string>
+    <string name="cancel">Cancelar</string>
+    <string name="user">Usuario</string>
+    <string name="birthdate">Cumpleaños</string>
+    <string name="update">Actualizar</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidExercise</string>
+    <string name="show_list">Show</string>
+    <string name="new_user">New</string>
+    <string name="create_user_button_accept">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="user">User</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="update">Update</string>
+</resources>
